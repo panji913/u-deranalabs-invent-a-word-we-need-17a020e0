@@ -10,6 +10,9 @@
 // The word is sayable, spellable and memorable, and it sounds like
 // English could have grown it: text + expect, with the middle
 // collapsing the way "brunch" collapses breakfast + lunch.
+// Word choice was checked before writing: "textpect" has no prior use
+// as a word, while the first candidate, "roomnesia", is already in
+// print (a 2015 newspaper coinage), so it was rejected.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
